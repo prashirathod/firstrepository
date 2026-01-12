@@ -1,2 +1,2 @@
 # firstrepository
-Author - Prachi Rathod
+Author - Prachi Rathod(first repository)
